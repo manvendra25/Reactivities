@@ -5,6 +5,7 @@ C:\Manvendra Space\React\MyEventApp\Reactivities\Domain\obj\Debug\net9.0\Domain.
 C:\Manvendra Space\React\MyEventApp\Reactivities\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
 C:\Manvendra Space\React\MyEventApp\Reactivities\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
 C:\Manvendra Space\React\MyEventApp\Reactivities\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Manvendra Space\React\MyEventApp\Reactivities\Domain\obj\Debug\net9.0\Domain.sourcelink.json
 C:\Manvendra Space\React\MyEventApp\Reactivities\Domain\obj\Debug\net9.0\Domain.dll
 C:\Manvendra Space\React\MyEventApp\Reactivities\Domain\obj\Debug\net9.0\refint\Domain.dll
 C:\Manvendra Space\React\MyEventApp\Reactivities\Domain\obj\Debug\net9.0\Domain.pdb

@@ -8,6 +8,7 @@ C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\obj\Debug\net9.0\Pe
 C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\obj\Debug\net9.0\Persistance.AssemblyInfoInputs.cache
 C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\obj\Debug\net9.0\Persistance.AssemblyInfo.cs
 C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\obj\Debug\net9.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\obj\Debug\net9.0\Persistance.sourcelink.json
 C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\obj\Debug\net9.0\Persista.3F568332.Up2Date
 C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\obj\Debug\net9.0\Persistance.dll
 C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\obj\Debug\net9.0\refint\Persistance.dll
