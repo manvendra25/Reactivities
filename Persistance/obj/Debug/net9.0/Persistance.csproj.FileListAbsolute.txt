@@ -1,0 +1,15 @@
+C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\bin\Debug\net9.0\Persistance.deps.json
+C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\bin\Debug\net9.0\Persistance.dll
+C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\bin\Debug\net9.0\Persistance.pdb
+C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\bin\Debug\net9.0\Domain.dll
+C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\bin\Debug\net9.0\Domain.pdb
+C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\obj\Debug\net9.0\Persistance.csproj.AssemblyReference.cache
+C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\obj\Debug\net9.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\obj\Debug\net9.0\Persistance.AssemblyInfoInputs.cache
+C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\obj\Debug\net9.0\Persistance.AssemblyInfo.cs
+C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\obj\Debug\net9.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\obj\Debug\net9.0\Persista.3F568332.Up2Date
+C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\obj\Debug\net9.0\Persistance.dll
+C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\obj\Debug\net9.0\refint\Persistance.dll
+C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\obj\Debug\net9.0\Persistance.pdb
+C:\Manvendra Space\React\MyEventApp\Reactivities\Persistance\obj\Debug\net9.0\ref\Persistance.dll
