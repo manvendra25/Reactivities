@@ -160,3 +160,7 @@ C:\Manvendra Space\React\MyEventApp\Reactivities\API\obj\Debug\net9.0\refint\API
 C:\Manvendra Space\React\MyEventApp\Reactivities\API\obj\Debug\net9.0\API.pdb
 C:\Manvendra Space\React\MyEventApp\Reactivities\API\obj\Debug\net9.0\API.genruntimeconfig.cache
 C:\Manvendra Space\React\MyEventApp\Reactivities\API\obj\Debug\net9.0\ref\API.dll
+C:\Manvendra Space\React\MyEventApp\Reactivities\api\bin\Debug\net9.0\AutoMapper.dll
+C:\Manvendra Space\React\MyEventApp\Reactivities\api\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Manvendra Space\React\MyEventApp\Reactivities\api\bin\Debug\net9.0\MediatR.dll
+C:\Manvendra Space\React\MyEventApp\Reactivities\api\bin\Debug\net9.0\MediatR.Contracts.dll
