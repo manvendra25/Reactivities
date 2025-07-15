@@ -16,7 +16,7 @@ export default function NavBar({ openForm }: Props) {
                         <Box>
                             <MenuItem sx={{ display: 'flex', gap: 2 }}>
                                 <Group fontSize="large" />
-                                <Typography variant="h4" fontWeight='bold'>Manvendra React Activities</Typography>
+                                <Typography variant="h4" fontWeight='bold'>Manvendra React scheduler</Typography>
                             </MenuItem>
                         </Box>
                         <Box sx={{ display: 'flex' }}>

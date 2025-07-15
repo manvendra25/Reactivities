@@ -3809,11 +3809,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\API\\API.csproj",
+      "projectUniqueName": "C:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\API\\API.csproj",
+      "projectPath": "C:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\api\\API.csproj",
       "packagesPath": "C:\\Users\\manve\\.nuget\\packages\\",
-      "outputPath": "c:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\API\\obj\\",
+      "outputPath": "C:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manve\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3831,8 +3831,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "c:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\Application\\Application.csproj": {
-              "projectPath": "c:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\Application\\Application.csproj"
+            "C:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\Application\\Application.csproj": {
+              "projectPath": "C:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\Application\\Application.csproj"
             },
             "C:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\Persistance\\Persistance.csproj": {
               "projectPath": "C:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\Persistance\\Persistance.csproj"

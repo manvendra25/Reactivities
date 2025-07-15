@@ -4,14 +4,14 @@
     "C:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\Persistance\\Persistance.csproj": {}
   },
   "projects": {
-    "c:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\manve\\.nuget\\packages\\",
-        "outputPath": "c:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\Domain\\obj\\",
+        "outputPath": "C:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manve\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,8 +91,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "c:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }

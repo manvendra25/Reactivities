@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/8pcy2nR21c=",
+  "dgSpecHash": "P11hHSsbz34=",
   "success": true,
-  "projectFilePath": "c:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\API\\API.csproj",
+  "projectFilePath": "C:\\Manvendra Space\\React\\MyEventApp\\Reactivities\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\manve\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\manve\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
